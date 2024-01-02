@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AtharvaBankar963
+- 👋 Hi, I’m @AtharvaBankar
 - 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning bachelor of computer applications 
 - 💞️ I’m looking to collaborate on Full stack development 
